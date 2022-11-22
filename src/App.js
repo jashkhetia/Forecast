@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div>
-      <h1>Welcome Jash!</h1>
+      <h1>Welcome User!</h1>
       <h2>
         Today's forecast for Lat: {state.latitude} and Long: {state.longitude}{" "}
         is:
